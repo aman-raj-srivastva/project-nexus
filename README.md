@@ -14,4 +14,4 @@ const firebaseConfig = {
   measurementId: "yOUR_MEASSURMENT_ID"
 };
 
-You can access the live preview of this project at https://the-crusty-bun.vercel.app/index.html
+You can access the live preview of this project at https://the-crusty-bun.vercel.app/index.html?#
